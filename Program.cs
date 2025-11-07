@@ -1,12 +1,9 @@
 ﻿using MVeiculos.Menus;
 
 var menu = new Menu();
+AddCarMenu menuAdd = new();
 
-menu.ShowTitle("Welcome to MVeiculos");
 
-var dictionary = new Dictionary<int, Menu>();
-dictionary.Add(1, menu);
-dictionary.Add(2, menu);
-dictionary.Add(3, menu);
-dictionary.Add(4, menu);
-dictionary.Add(-1, menu);
+menu.ShowTitle("Bem vindo a MVeiculos");
+
+menuAdd.adicionarCar();

@@ -16,10 +16,6 @@ public class DAL<T> where T : class
         this.context = context;
     }
 
-    public IEnumerable<T> List()
-    {
-        return context.Set<T>().ToList();
-    }
     public void Add(T t)
     {
         context.Set<T>().Add(t);

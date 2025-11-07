@@ -3,28 +3,19 @@
   "WorkspaceRootPath": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\menus\\addcarmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:menus\\addcarmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\banco\\mveiculoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:banco\\mveiculoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MVeiculos/True/SqlTable/dbo.Cars.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\modelos\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:modelos\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\modelos\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:modelos\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\modelos\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:modelos\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\menus\\addcarmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:menus\\addcarmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\menus\\addbrandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,30 +26,40 @@
       "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\migrations\\20251105111935_populatingtablebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:migrations\\20251105111935_populatingtablebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\modelos\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:modelos\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\migrations\\20251105111734_initialproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:migrations\\20251105111734_initialproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\modelos\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:modelos\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\modelos\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:modelos\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\migrations\\20251105111935_populatingtablebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:migrations\\20251105111935_populatingtablebrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\migrations\\20251105113348_populatingtablecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:migrations\\20251105113348_populatingtablecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MVeiculos/True/SqlTable/dbo.Cars.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|c:\\programa\u00E7\u00E3o\\c#\\projetospessoais\\mveiculos\\migrations\\mveiculoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7BD634C-EE7E-43AF-848B-4EB192FC6F5B}|MVeiculos.csproj|solutionrelative:migrations\\mveiculoscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MVeiculos/True/SqlTable/dbo.Brands.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,60 +69,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Banco\\DAL.cs",
-              "RelativeDocumentMoniker": "Banco\\DAL.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Banco\\DAL.cs",
-              "RelativeToolTip": "Banco\\DAL.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:06:26.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddBrandMenu.cs",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddBrandMenu.cs",
-              "RelativeDocumentMoniker": "Menus\\AddBrandMenu.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddBrandMenu.cs",
-              "RelativeToolTip": "Menus\\AddBrandMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:04:42.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddCarMenu.cs",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddCarMenu.cs",
-              "RelativeDocumentMoniker": "Menus\\AddCarMenu.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddCarMenu.cs",
-              "RelativeToolTip": "Menus\\AddCarMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:04:07.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MVeiculosContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\MVeiculosContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\MVeiculosContextModelSnapshot.cs",
-              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\MVeiculosContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\MVeiculosContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:26:10.307Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -136,7 +85,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "dbo.Cars [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MVeiculos/True/SqlTable/dbo.Cars.sql",
+              "ToolTip": "dbo.Cars [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-07T14:26:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-05T15:02:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Banco\\DAL.cs",
+              "RelativeDocumentMoniker": "Banco\\DAL.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Banco\\DAL.cs",
+              "RelativeToolTip": "Banco\\DAL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:06:26.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddBrandMenu.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddBrandMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\AddBrandMenu.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddBrandMenu.cs",
+              "RelativeToolTip": "Menus\\AddBrandMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:04:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCarMenu.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddCarMenu.cs",
+              "RelativeDocumentMoniker": "Menus\\AddCarMenu.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\AddCarMenu.cs",
+              "RelativeToolTip": "Menus\\AddCarMenu.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:04:07.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MVeiculosContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\MVeiculosContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MVeiculosContextModelSnapshot.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\MVeiculosContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MVeiculosContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:26:10.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20251105113348_PopulatingTableCar.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\20251105113348_PopulatingTableCar.cs",
               "RelativeDocumentMoniker": "Migrations\\20251105113348_PopulatingTableCar.cs",
@@ -144,12 +166,11 @@
               "RelativeToolTip": "Migrations\\20251105113348_PopulatingTableCar.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAgwBwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:33:48.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T11:33:48.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "20251105111935_PopulatingTableBrand.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\20251105111935_PopulatingTableBrand.cs",
               "RelativeDocumentMoniker": "Migrations\\20251105111935_PopulatingTableBrand.cs",
@@ -157,32 +178,11 @@
               "RelativeToolTip": "Migrations\\20251105111935_PopulatingTableBrand.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T11:19:35.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T11:19:35.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "dbo.Cars [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MVeiculos/True/SqlTable/dbo.Cars.sql",
-              "ToolTip": "dbo.Cars [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-05T11:19:12.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "dbo.Brands [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MVeiculos/True/SqlTable/dbo.Brands.sql",
-              "ToolTip": "dbo.Brands [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-05T11:19:02.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "20251105111734_InitialProject.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Migrations\\20251105111734_InitialProject.cs",
               "RelativeDocumentMoniker": "Migrations\\20251105111734_InitialProject.cs",
@@ -195,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Modelos\\Client.cs",
               "RelativeDocumentMoniker": "Modelos\\Client.cs",
@@ -208,20 +208,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Modelos\\Car.cs",
               "RelativeDocumentMoniker": "Modelos\\Car.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Modelos\\Car.cs",
               "RelativeToolTip": "Modelos\\Car.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T14:58:42.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T14:58:42.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Modelos\\Brand.cs",
               "RelativeDocumentMoniker": "Modelos\\Brand.cs",
@@ -229,44 +228,43 @@
               "RelativeToolTip": "Modelos\\Brand.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAApwAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T14:58:35.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T14:58:35.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MVeiculosContext.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Banco\\MVeiculosContext.cs",
               "RelativeDocumentMoniker": "Banco\\MVeiculosContext.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Banco\\MVeiculosContext.cs",
               "RelativeToolTip": "Banco\\MVeiculosContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T14:57:24.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\Menu.cs",
               "RelativeDocumentMoniker": "Menus\\Menu.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Menus\\Menu.cs",
               "RelativeToolTip": "Menus\\Menu.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T14:44:59.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Programa\u00E7\u00E3o\\C#\\ProjetosPessoais\\MVeiculos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T14:39:20.396Z",
               "EditorCaption": ""

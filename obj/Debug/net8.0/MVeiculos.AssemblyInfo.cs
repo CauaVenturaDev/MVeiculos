@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVeiculos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0723282a5e32e89068e7a3f61d44284eddaf700")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVeiculos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVeiculos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

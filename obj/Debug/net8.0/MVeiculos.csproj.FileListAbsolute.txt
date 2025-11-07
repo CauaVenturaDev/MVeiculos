@@ -159,3 +159,4 @@ C:\Programação\C#\ProjetosPessoais\MVeiculos\obj\Debug\net8.0\refint\MVeiculos
 C:\Programação\C#\ProjetosPessoais\MVeiculos\obj\Debug\net8.0\MVeiculos.pdb
 C:\Programação\C#\ProjetosPessoais\MVeiculos\obj\Debug\net8.0\MVeiculos.genruntimeconfig.cache
 C:\Programação\C#\ProjetosPessoais\MVeiculos\obj\Debug\net8.0\ref\MVeiculos.dll
+C:\Programação\C#\ProjetosPessoais\MVeiculos\obj\Debug\net8.0\MVeiculos.sourcelink.json

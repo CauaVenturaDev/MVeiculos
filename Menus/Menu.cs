@@ -4,6 +4,8 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using MVeiculos.Banco;
+using MVeiculos.Modelos;
 
 namespace MVeiculos.Menus
 {
@@ -17,7 +19,7 @@ namespace MVeiculos.Menus
             Console.WriteLine(titulo);
             Console.WriteLine(asteristico);
         }
-        public virtual void Exec()
+        public virtual void Exec() 
         {
             Console.Clear();
         }
